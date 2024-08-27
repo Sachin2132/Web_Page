@@ -16,7 +16,7 @@
 }
 
 .main{
-    width: 100vw;
+    width: 221vh;
     background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 50%);
     background-position: center;
     background-size: cover;
