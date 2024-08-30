@@ -3,12 +3,12 @@ import { getAuth, signInWithEmailAndPassword } from "https://www.gstatic.com/fir
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAzEj0eB-LxpYBI--kxraYEEeL-9zfwphg",
-  authDomain: "loginpage-4b6f8.firebaseapp.com",
-  projectId: "loginpage-4b6f8",
-  storageBucket: "loginpage-4b6f8.appspot.com",
-  messagingSenderId: "904532002765",
-  appId: "1:904532002765:web:d340d3781c15affebbe684"
+  apiKey: your_api_key_here,
+  authDomain: your_auth_domain_here,
+  projectId: your_project_id,
+  storageBucket: your_storage_bucket,
+  messagingSenderId: your_messaging_id,
+  appId: your_app_id
 };
 
 // Initialize Firebase
